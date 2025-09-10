@@ -1,0 +1,18 @@
+# Outils scientifiques et traitement de données
+numpy==1.26.4
+nltk==3.9.1
+
+# Serveur web
+flask==3.0.3
+nest_asyncio==1.6.0
+
+# Machine Learning
+scikit-learn==1.5.1
+
+# TensorFlow et Keras compatibles
+tensorflow==2.19.0
+tf-keras==2.19.0
+
+# NLP avec HuggingFace
+transformers==4.49.0
+sentencepiece==0.2.0
