@@ -157,7 +157,7 @@ Distribué sous licence MIT. Voir `LICENSE` pour plus d'informations.
 
 ## 👤 Auteur
 
-**Votre Nom**
+**Saidi Mohammed**
 - LinkedIn : https://www.linkedin.com/in/mohammed-saidi-3426912b2/
 - Email : saidimohammed0301@gmail.com
 
