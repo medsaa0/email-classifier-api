@@ -1,6 +1,5 @@
 # Email Classification avec CamemBERT
 
-![Pipeline](docs/images/pipeline.png)
 
 ## 📌 Description
 
